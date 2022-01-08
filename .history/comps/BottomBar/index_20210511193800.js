@@ -53,7 +53,7 @@ const BarIcon =styled.img`
 
 const BottomBar = ({
     routeTo1='/Home',
-    routeTo2='/',
+    routeTo2='/Home',
     routeTo3='/regions',
 
 }) => {

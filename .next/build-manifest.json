@@ -14,10 +14,15 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/Home": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/Home.js"
+      "static/chunks/pages/index.js"
+    ],
+    "/UrbanCities": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/UrbanCities.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
@@ -29,10 +34,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/marinequiz": [
+    "/next/dist/pages/_error": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/marinequiz.js"
+      "static/chunks/pages/next/dist/pages/_error.js"
+    ],
+    "/regions": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/regions.js"
     ]
   },
   "ampFirstPages": []
