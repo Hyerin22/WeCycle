@@ -42,7 +42,7 @@ export default function Regions() {
             <RegionButton routeTo="/Landfills" text="Landfills" bgcolor="#FFEAAD" ellipsecolor="#FFFBF0" src="/Landfills.svg" width="104px" height="104px" />
         </div>
         <div>
-            <BottomBar routeTo1="/Home"></BottomBar>
+            <BottomBar routeTo1="/"></BottomBar>
         </div>
 
     </Holder>

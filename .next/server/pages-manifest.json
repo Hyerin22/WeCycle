@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/LandfillAnimals": "pages/LandfillAnimals.js",
-  "/LandfillQuiz": "pages/LandfillQuiz.js"
+  "/": "pages/index.js",
+  "/marineenviro": "pages/marineenviro.js"
 }
