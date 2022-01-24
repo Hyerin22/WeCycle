@@ -7,7 +7,7 @@ import Didyouknow from '../comps/Didyouknow';
 import Start from '../comps/Start';
 import StudyOthers from '../comps/StudyOthers'
 import React, {useState} from 'react';
-import Marinequiz from '../comps/Landfillquiz';
+import Marinequiz from '../comps/LandfillQuiz';
 import Flag from '../comps/Flags'
 import BottomBar from '../comps/BottomBar';
 import { useRouter } from 'next/router';
