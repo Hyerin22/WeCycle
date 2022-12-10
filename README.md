@@ -1,31 +1,4 @@
+This is not an original repo. After the project, I wanted to fix some parts so I uploaded them to my GitHub and did it.
 
-Leah
-- Study other regions comp
-- routing
-- Menu comp
-- Marine page
-- PLastic effects page
-
-Hannah C
-- Heading comp
-- Imgtext button
-- routing
-- homepage
-- tutorials page
-
-Hyerin
-- Program logo comp
-- routing
-- region button comp
-- regions page
-- TakeAction pages
-- More page
-- quiz page
-
-Kelly
-- body text comp
-- flag comp
-- Did you know comp
-- quiz page
-- routing
-- Programs page
+If you want to check my previous commits, the link below is the original repo with my team:    
+<https://github.com/Hyerin22/wecycle-app-components>
